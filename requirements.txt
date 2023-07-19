@@ -1,0 +1,12 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+gluonts=0.10.8=pypi_0
+jax=0.2.11=pypi_0
+matplotlib=3.3.2=0
+numpy=1.19.2=py38h54aff64_0
+pandas=1.1.3=py38he6710b0_0
+python=3.8.5=h7579374_1
+scikit-learn=0.23.2=py38h0573a6f_0
+scipy=1.5.2=py38h0b6359f_0
+tensorly=0.7.0=pypi_0
